@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/golujha9936/StrangerMusicBot-1",
+        "value": "https://github.com/Rahul2135/StrangerMusicBot-1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
